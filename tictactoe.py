@@ -184,4 +184,3 @@ def game():
 
 title()
 game()
-print('Chicken Mc Nugget')
